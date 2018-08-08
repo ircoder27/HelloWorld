@@ -1,0 +1,17 @@
+body {
+    /*background-color: lightblue;*/
+}
+.main {
+  border: 1px solid red;
+}
+.second {
+  border: 2px solid blue;
+  font-size: 1em;
+  text-align: center;
+  width: 50%;
+  float:left;
+}
+.third {
+  width: 50%;
+  float: right;
+}
