@@ -2,8 +2,6 @@ HelloWorld -html project
 
 * my first html project
 
-$ HISTORY
+# HISTORY
 
 * 20180807 - Initial repository.
-
- 
